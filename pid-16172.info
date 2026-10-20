@@ -1,0 +1,10 @@
+{
+    "cache_key": "eyJhcmd1bWVudHMiOlsiLS1sb2dkaXIiLCIuL3RlbnNvcmJvYXJkX2xvZ3MvIl0sImNvbmZpZ3VyZV9rd2FyZ3MiOnt9LCJ3b3JraW5nX2RpcmVjdG9yeSI6Img6XFxweXRob25fcHJvamVjdFxccHJvamV0MTEifQ==",
+    "db": "",
+    "logdir": "./tensorboard_logs/",
+    "path_prefix": "",
+    "pid": 16172,
+    "port": 6006,
+    "start_time": 1784052917,
+    "version": "2.21.0"
+}
